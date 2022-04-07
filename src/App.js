@@ -2,7 +2,6 @@
 // import { DragDropContext, Draggable, Droppable } from "react-beautiful-dnd";
 import Header from "./components/Header";
 import TaskCards from "./components/Task/TaskCards";
-import "./App.css";
 
 function App() {
   return (
